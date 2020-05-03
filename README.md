@@ -1,4 +1,4 @@
-# README
+# Anki Open Subdeck
 
 This addon allows you to open the subdeck of the current card that you are
 reviewing. If you're not reviewing a card, it defaults to the regular browse
